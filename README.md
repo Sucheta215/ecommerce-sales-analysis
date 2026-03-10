@@ -1,16 +1,19 @@
 **E-Commerce Sales Analysis Dashboard**
 
-**Project Overview**
+**Project Overview:**
 
 This project analyzes a Brazilian e-commerce dataset to understand sales trends, product performance, regional demand, and delivery efficiency.
 
-**Tools Used**
+**Dataset:**
+Brazilian E-commerce Public Dataset (Olist)
+
+**Dataset Source:**
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+**Tools Used:**
 1. Python (Pandas, NumPy)
 2. SQL
 3. Power BI
-
-**Dataset**
-Brazilian E-commerce Public Dataset (Olist)
 
 **Project Workflow**
 1. Data cleaning and preprocessing
